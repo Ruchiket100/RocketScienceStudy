@@ -51,4 +51,54 @@ Mostly used for research purpose. It carries instruments to perform experiments 
 
 ---
 launch vehical rockets are design to carry payload.It should travel at least 150km (orbital) & horizontal velocity should be more tahn 7500mph.  
-* Launch Vehical further divide into 4 types (small, medium, heavy, superheavy) based on payload capacity].
+* Launch Vehical further divide into 4 types (small, medium, heavy, superheavy) based on payload capacity.
+  
+--- 
+## Basic Components of Rocket
+![parts of rocekt](./source/parts.png)-model rocket
+### Nose Cone    
+[nose cone](https://www.researchgate.net/profile/Ashish-Narayan-2/publication/320213955/figure/fig7/AS:719970266796033@1548665696977/Comparison-of-Mach-number-contours-of-a-spherically-blunted-nose-cone-and-parabolic-nose.png) has shape that causes air to flow smoothly and reduce the aerodynamic drag.
+
+### Body tube
+body tube are the airframe of rocket. It is mainly built of cardboard, plastic, fiberglass. It contains Engine mount, recovery system etc..
+
+### Coupler
+It can be useful to join tubes which have same or different diameter.
+
+### Fins
+![types of fines](./source/fins%20types.png)
+Fins are used to give aerodyanmic stability in flight so that rocket can fly streight.
+- Fins increases aerodinamic drag in lower section to allow nose point straight.
+- Eliptical fins are mostly used in rocket.
+**Design to attach Fins**
+- wedge - is like rounding the joints.
+- Shoulder - is like lego block.
+
+### Rocket motor
+Rocket Motor provide thrust to lift the rocket. Above we learned about different types of Rocket motors.  
+
+**geometries of propellent**
+- End burner and Core Burner - [click here](https://www.youtube.com/watch?v=Hu_PRwhekMc)
+
+### Launch lugs
+![parts like launch lug](./source/launch-lugs.png)  
+In beginning rockets velocity is low, so to give aerodynamic guidance or direction to it, we use Launch Lugs to get support from launch pad.
+
+### Igniter
+![model rocket igniter](./source/model-rocket-igniter.png)-pyrogen coated tip  
+rocket use electrical igniter to deplpoy rocket motor from safe distance.
+
+### Motor mount
+used to hold rocket moter steadily.
+
+---
+
+## Rocket Systems
+### Recovery System
+Recovery System use to land rocket softly on ground. To land softly we need to reduce velocity i.e parachutes are used.  
+
+**There are two techinques for parachute ejextion-**   
+![rocket recovery system](./source/rocket-recovery-system.png)  
+**1.Pyrotechnic** - ejecting parachute with the help of pressure created by Black powder.  
+**2.Non-pyrotechinic** - use mechanism which works on piston or spring to eject the parachute.
+### Avionic System
