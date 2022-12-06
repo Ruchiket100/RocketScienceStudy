@@ -101,4 +101,14 @@ Recovery System use to land rocket softly on ground. To land softly we need to r
 ![rocket recovery system](./source/rocket-recovery-system.png)  
 **1.Pyrotechnic** - ejecting parachute with the help of pressure created by Black powder.  
 **2.Non-pyrotechinic** - use mechanism which works on piston or spring to eject the parachute.
+
 ### Avionic System
+this system consist of computers, sensors, controllers, communication system,power reguations etc..
+![avionic system by bps space](https://i.ytimg.com/vi/pZ572Rjj9vA/maxresdefault.jpg)*Avionic bay is a platform that holds all electronics.*  
+
+**Boards used in Flight Computers -** Arduino , Teensy  
+
+**Sensors -**
+- Gyroscope - use for measuring and maintaining angular velocity.
+- Accelarometer - use to measure proper acceleration.
+- Barometric sensor - to detect atmospheric pressure.
