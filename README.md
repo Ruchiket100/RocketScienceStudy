@@ -119,3 +119,9 @@ this system consist of computers, sensors, controllers, communication system,pow
 ### 2. Find Center of Mass and Center of pressure
 ### 3. Recovery System Test 
 ### and more
+
+---
+### *If you want to learn more -*
+- [Rocket Motor Assembly](https://www.youtube.com/watch?v=SRE6_lcwfPg)
+- [High Strength Rocket fins test](https://www.youtube.com/watch?v=ttqEsg7qf_w)
+- [Airframe Assembly](https://www.youtube.com/watch?v=kpl2iQG6IWI)
