@@ -112,3 +112,9 @@ this system consist of computers, sensors, controllers, communication system,pow
 - Gyroscope - use for measuring and maintaining angular velocity.
 - Accelarometer - use to measure proper acceleration.
 - Barometric sensor - to detect atmospheric pressure.
+
+
+## Testing
+### 1. Rocket Motor test 
+### 2. Find Center of Mass and Center of pressure
+### 3. Recovery System Test 
